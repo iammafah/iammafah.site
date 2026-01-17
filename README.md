@@ -1,6 +1,6 @@
 # iammafah.site
 
-🚀 **Backend Developer (Python) & Automation Engineer**  
+🚀 **Backend Developer  & Automation Engineer**  
 **Secure APIs · Backend Systems · Automation · Authentication · Scalable Architecture**
 
 🌐 **Live:** https://iammafah.site
